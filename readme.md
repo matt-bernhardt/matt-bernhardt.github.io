@@ -3,6 +3,10 @@ link: 'Home'
 permalink: /
 ---
 
+# Projects
+
+This section coming soon.
+
 # Talks
 
 Most of these are posted to Slideshare
